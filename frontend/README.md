@@ -1,1 +1,1 @@
-# Frontend initialized
+# Frontend
